@@ -1,0 +1,33 @@
+# Hokusai — Thirty-six Views of Mount Fuji (c. 1830–32).
+# Washi paper ground, Prussian blue ink, Red Fuji vermilion.
+mode = "light"
+
+accent = "#1f4e79"              # Prussian blue (bero-ai)
+selection = "#c9d6e3"
+muted = "#a89f8c"
+
+background = "#f2e8d5"          # washi paper
+dark_background = "#e8dcc4"
+darker_background = "#ddcfb4"
+lighter_background = "#f8f1e3"
+
+foreground = "#1b2a41"          # sumi ink
+dark_foreground = "#7a8597"
+light_foreground = "#2c3e5c"
+bright_foreground = "#0f1a2b"
+
+red = "#b8312f"                 # Red Fuji
+yellow = "#a8761a"              # ochre sky
+orange = "#c0582a"
+green = "#4f6b3a"               # pine
+cyan = "#2a7a8c"                # sea foam shadow
+blue = "#1f4e79"                # Prussian blue
+magenta = "#8a4a6b"
+brown = "#6b4a2b"
+
+bright_red = "#d0453f"
+bright_yellow = "#c48d22"
+bright_green = "#5f8046"
+bright_cyan = "#3a92a5"
+bright_blue = "#2f6aa3"
+bright_magenta = "#a35c80"
